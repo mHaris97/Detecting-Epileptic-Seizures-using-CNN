@@ -7,9 +7,9 @@ In this project we work on an open source dataset, from MIT, which contained Ele
 ## Results
 The following are the results for frequency domain and over individual patients, and time domain.
 
-![alt text](https://github.com/mHaris97/Detecting-Epileptic-Seizures-using-CNN/blob/main/images/freq_acc.png.PNG)
-![alt text](https://github.com/mHaris97/Detecting-Epileptic-Seizures-using-CNN/blob/main/images/acc24.png.PNG)
-![alt text](https://github.com/mHaris97/Detecting-Epileptic-Seizures-using-CNN/blob/main/images/time_acc.png.PNG)
+![alt text](https://github.com/mHaris97/Detecting-Epileptic-Seizures-using-CNN/blob/main/images/freq_acc.png)
+![alt text](https://github.com/mHaris97/Detecting-Epileptic-Seizures-using-CNN/blob/main/images/acc24.png)
+![alt text](https://github.com/mHaris97/Detecting-Epileptic-Seizures-using-CNN/blob/main/images/time_acc.png)
 
 
 ## Getting Started
